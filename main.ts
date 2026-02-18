@@ -5,8 +5,6 @@
  * This program basic math 
 */
 
-
-
 basic.showString('A rectangle has dimensions 5 cm & 3 cm.')
 
 basic.showString('The perimeter would be:' + (2 * 5 + 3).toString())
