@@ -2,7 +2,17 @@
  *
  * Created by: Illia
  * Created on: Feb 2026
- * This program will Hellos,Illia
+ * This program basic math 
 */
 
-basic.showString('Hello,Illia')
+
+
+basic.showString('A rectangle has dimensions 5 cm & 3 cm.')
+
+basic.showString('The perimeter would be:' + (2 * 5 + 3).toString())
+
+basic.showString('cm')
+
+basic.showString('The area would be:' + (5 * 3).toString())
+
+basic.showString('cm^2')
